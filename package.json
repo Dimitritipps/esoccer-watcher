@@ -1,0 +1,14 @@
+{
+  "name": "esoccer-watcher",
+  "version": "1.0.0",
+  "description": "Folyamatosan figyeli az éppen futó eSoccer bajnokságokat és meccseket.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.3.1"
+  }
+}
